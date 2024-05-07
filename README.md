@@ -30,27 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frankielee2272&" alt="frankielee2272" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+With a rich background in theology, philosophy, logic, and world religions, I offer a distinctive perspective to software development. My creative approach and keen ability to engage with diverse groups enhance my contributions to any team. Currently, I am expanding my skill set in digital marketing, focusing on PPC, SEO, AI, and social media strategies. I am eager to connect and contribute as a valuable asset to a dynamic company.
