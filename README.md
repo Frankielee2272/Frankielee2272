@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Frank Trujillo</h1>
-<h3 align="center">A passionate frontend developer from South Florida</h3>
+<h3 align="center">A passionate full-stack developer from South Florida</h3>
 
 - 🔭 I’m currently working on **Real Estate App to generate leads for Real Estate Brokers**
 
