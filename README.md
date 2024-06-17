@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Real Estate App to generate leads for Real Estate Brokers**
 
-- 🌱 I’m currently learning **Full-Stack Software Development**
+- 🌱 **Full-Stack Software Developer **
 
 - 📫 How to reach me **ftrujillo@sfbc.edu**
 
